@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Myunikon
-- 👀 I’m interested in computer
+- 👀 I’m interested in computer and science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
