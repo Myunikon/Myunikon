@@ -11,5 +11,3 @@ Hi, I’m **@Myunikon**! Here's a little about me:
 
 ---
 
-✨ This repository is special because its `README.md` appears on my GitHub profile. ✨  
-Click the **Preview** link to check out any updates or changes.
