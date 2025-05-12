@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Myunikon
-- 👀 I’m interested in computer and science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i loved mango
+# 👋 Welcome to Myunikon's GitHub Profile!
 
-<!---
-Myunikon/Myunikon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m **@Myunikon**! Here's a little about me:
+
+- 👀 **Interests:** I'm passionate about computers and science.
+- 🌱 **Currently Learning:** Python programming and always eager to expand my knowledge.
+- 💞️ **Looking to Collaborate On:** Exciting projects in technology, science, and open-source development.
+- 📫 **How to Reach Me:** Feel free to connect with me through GitHub or other platforms.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I absolutely love mangoes! 🥭
+
+---
+
+✨ This repository is special because its `README.md` appears on my GitHub profile. ✨  
+Click the **Preview** link to check out any updates or changes.
