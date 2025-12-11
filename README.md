@@ -40,7 +40,7 @@
     </td>
     <td valign="center" width="40%">
       <div align="center">
-        <img src="https://media.giphy.com/media/L1R1TVThqceK6M8M8z/giphy.gif" width="100%" alt="coding gif"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXVvdzFla2gxM2IzeW9qcXI0cTVzNGNrNmFnZTA2NW50NWV6eW9tOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hwaFAsPi7wU6LHwn84/giphy.gif" width="100%" alt="coding gif"/>
       </div>
     </td>
   </tr>
