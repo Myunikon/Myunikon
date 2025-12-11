@@ -21,45 +21,49 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🧐 About Me
 
 <table>
   <tr>
     <td valign="top" width="60%">
+      <br>
       Hi, I'm <b>Myunikon</b>! 👋
       <br><br>
       I have <b>1 year of experience in Python</b>, but currently, I'm shifting my focus to build high-performance cross-platform apps using the modern stack: <b>Rust, Tauri, React, and TypeScript</b>.
       <br><br>
       🚀 <b>Current Focus:</b> Building efficient desktop apps with Tauri & Rust.<br>
       🎬 <b>Editing:</b> I've moved from After Effects to <b>CapCut</b> for efficiency.<br>
-      💬 <b>Let's Chat:</b> I'm a bit quiet, so <b>please say hi first!</b> I'd love to connect.<br>
+      💬 <b>Let's Chat:</b> I'm a bit quiet (Introvert), so <b>please say hi first!</b> I'd love to connect.<br>
       ⚡ <b>Fun Fact:</b> Fuelled by <b>Bananas 🍌 and Mangoes 🥭</b>.
     </td>
     <td valign="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRuOGxkZTIyMzFxbXp6eDhmdzRqYjgzMjRnOWx0YWZtZXExa3UzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5a3Uy3O1gwrkVBffV0/giphy.gif" width="100%" alt="coding sticker"/>
+      <div align="center">
+        <img src="https://media.giphy.com/media/L1R1TVThqceK6M8M8z/giphy.gif" width="100%" alt="coding gif"/>
+      </div>
     </td>
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-  <p><b>Main Stack (Learning & Building)</b></p>
+  <p><b>🚀 Main Stack (Learning & Building)</b></p>
   <img src="https://skillicons.dev/icons?i=rust,tauri,react,ts,html,css" />
   
   <br><br>
 
-  <p><b>Previous Exp & Tools</b></p>
+  <p><b>🛠️ Tools & Previous Exp</b></p>
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white&height=40" height="46" alt="CapCut"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🐍 Snake Game
 
@@ -71,7 +75,15 @@
   </picture>
 </div>
 
----
+<br>
+
+### 🏙️ GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Myunikon&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 📊 GitHub Stats
 
@@ -80,7 +92,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myunikon&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Myunikon&icon=0&color=0" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
