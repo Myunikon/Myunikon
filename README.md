@@ -4,7 +4,7 @@
 
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Python+Developer;Creative+Video+Editor;Science+Enthusiast;Mango+Lover+%F0%9F%A5%AD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Python+Developer;Creative+Video+Editor;Science+Enthusiast;Mango+Lover+%F0%9F%A5%AD" alt="Typing SVG" />
   </a>
 
   <p>
@@ -62,7 +62,11 @@
 ### 🐍 Snake Game
 
 <div align="center">
-  <img src="https://github.com/Myunikon/Myunikon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Myunikon/Myunikon/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Myunikon/Myunikon/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Myunikon/Myunikon/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
