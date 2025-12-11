@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Jalan tiap 12 jam
-  workflow_dispatch:       # Bisa dijalankan manual
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
     - master
@@ -13,26 +13,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    # IZIN PENTING: Ini memberi akses tulis ke repo Anda
+    # IZIN PENTING (Wajib ada untuk versi v4)
     permissions:
       contents: write
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Kita update checkout ke v4 juga biar sekalian fresh
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Mengambil username otomatis dari pemilik repo
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub Pages
-        # PERBAIKAN: Kita ganti ke v3.1.0 agar tidak error "repository not found"
-        uses: crazy-max/gh-action-github-pages@v3.1.0
+        # INI DIA PERBAIKANNYA SESUAI TEKS KAMU (v4)
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
