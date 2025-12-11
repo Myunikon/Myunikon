@@ -38,7 +38,7 @@
       ⚡ <b>Fun Fact:</b> Fuelled by <b>Bananas 🍌 and Mangoes 🥭</b>.
     </td>
     <td valign="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91emNnMXF3eGx5YXYxeXF1aHI3aXF6aXF6aXF6aXF6aXF6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceK6M8M8z/giphy.gif" width="100%" alt="coding sticker"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRuOGxkZTIyMzFxbXp6eDhmdzRqYjgzMjRnOWx0YWZtZXExa3UzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5a3Uy3O1gwrkVBffV0/giphy.gif" width="100%" alt="coding sticker"/>
     </td>
   </tr>
 </table>
@@ -56,7 +56,6 @@
 
   <p><b>Previous Exp & Tools</b></p>
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white&height=40" height="46" alt="CapCut Badge"/>
 
 </div>
 
