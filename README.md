@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Myunikon!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello,%20I'm%20Myunikon!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Python+Developer;Creative+Video+Editor;Science+Enthusiast;Mango+Lover+%F0%9F%A5%AD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Rust+%26+Tauri+Developer+🦀;React+%2B+TypeScript+Enthusiast;Python+Coder+(1+Year+Exp);Video+Editor+(CapCut);Banana+%26+Mango+Lover+🍌🥭" alt="Typing SVG" />
   </a>
 
   <p>
@@ -23,38 +23,41 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Myunikon&theme=radical&no-frame=true&column=7" alt="Myunikon Trophies" />
-  </a>
-</div>
-
 ### 🧐 About Me
 
 <table>
   <tr>
-    <td valign="center">
-      Hi, I'm <b>Myunikon</b>! I combine my passion for <b>Computer Science</b> with <b>Creative Arts</b>.
+    <td valign="top" width="60%">
+      Hi, I'm <b>Myunikon</b>! 👋
       <br><br>
-      🔭 I’m currently working on <b>Python Projects</b><br>
-      🌱 I’m currently learning <b>Deep Learning & PyTorch</b><br>
-      🎨 I love editing videos with <b>Adobe After Effects</b><br>
-      ⚡ Fun fact: <b>I absolutely love mangoes! 🥭</b>
+      I have <b>1 year of experience in Python</b>, but currently, I'm shifting my focus to build high-performance cross-platform apps using the modern stack: <b>Rust, Tauri, React, and TypeScript</b>.
+      <br><br>
+      🚀 <b>Current Focus:</b> Building efficient desktop apps with Tauri & Rust.<br>
+      🎬 <b>Editing:</b> I've moved from After Effects to <b>CapCut</b> for efficiency.<br>
+      💬 <b>Let's Chat:</b> I'm a bit quiet, so <b>please say hi first!</b> I'd love to connect.<br>
+      ⚡ <b>Fun Fact:</b> Fuelled by <b>Bananas 🍌 and Mangoes 🥭</b>.
     </td>
-    <td valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+    <td valign="center" width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91emNnMXF3eGx5YXYxeXF1aHI3aXF6aXF6aXF6aXF6aXF6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceK6M8M8z/giphy.gif" width="100%" alt="coding sticker"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,html,css,vscode,git,github" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,xd" />
+
+  <p><b>Main Stack (Learning & Building)</b></p>
+  <img src="https://skillicons.dev/icons?i=rust,tauri,react,ts,html,css" />
+  
+  <br><br>
+
+  <p><b>Previous Exp & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white&height=40" height="46" alt="CapCut Badge"/>
+
 </div>
 
 ---
@@ -71,7 +74,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myunikon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
