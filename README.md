@@ -59,7 +59,6 @@
 
   <p><b>🛠️ Tools & Previous Exp</b></p>
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white&height=40" height="46" alt="CapCut"/>
 
 </div>
 
